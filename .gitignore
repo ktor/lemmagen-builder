@@ -1,0 +1,9 @@
+# Cloned repos - managed separately
+elasticsearch-analysis-lemmagen/
+lemmagen-lexicons/
+
+# Build artifacts
+plugin/*.zip
+
+# Claude IDE
+.claude/
